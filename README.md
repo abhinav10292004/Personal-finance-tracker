@@ -1,1 +1,1 @@
-# Personal-finance-trecker
+# Next13, Firebase, Tailwind Tutorial
